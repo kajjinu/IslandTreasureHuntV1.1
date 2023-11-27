@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Island Treasure Hunt V1.1</string>
+    <string name="logo">logo</string>
+    <string name="island_treasure_hunt">Island Treasure Hunt</string>
+    <string name="start">Start</string>
+    <string name="log_in">Log In</string>
+    <string name="do_not_have_an_account_yet">Do not have an account yet?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="su">Sign Up</string>
+</resources>
